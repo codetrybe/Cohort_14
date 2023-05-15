@@ -19,8 +19,7 @@ Error! Enter 2 arguments: i.e ./test correctPassword
 DELL@SamfrodoPC MINGW64 ~/Desktop/Learning_C/ALX-PLD/My Clones (Live)/CODETRYBE/Cohort_14/ARGC_ARGV (main)
 $ ./test 1
 Password Protected!!!
-Please enter the correct password in this format: ./test correctPassword
-this format: ./test correctPassword 
+Please enter the correct password in this format: ./test correctPassword 
 
 DELL@SamfrodoPC MINGW64 ~/Desktop/Learning_C/ALX-PLD/My 
 Clones (Live)/CODETRYBE/Cohort_14/ARGC_ARGV (main)      
