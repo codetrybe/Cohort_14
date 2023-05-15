@@ -31,10 +31,10 @@ DELL@SamfrodoPC MINGW64 ~/Desktop/Learning_C/ALX-PLD/My
 Clones (Live)/CODETRYBE/Cohort_14/ARGC_ARGV (main)      
 $ ./test 'Cohort 14'
 Welcome, Password Success!
-Task passed
-
-DELL@SamfrodoPC MINGW64 ~/Desktop/Learning_C/ALX-PLD/My Clones (Live)/CODETRYBE/Cohort_14/ARGC_ARGV (main)     
-$ls
-
+Task passed!!!
                                      
 ```
+
+
+
+    Happy Coding and Learning
