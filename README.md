@@ -2,7 +2,7 @@
 
 ---
 
-#####This is a repository containing all CodeTrybe's Cohort 14 assignments given during regular PLD sessions.
+#### This is a repository containing all CodeTrybe's Cohort 14 assignments given during regular PLD sessions.
 
 
 ## Mode of Submission
